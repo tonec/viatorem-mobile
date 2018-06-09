@@ -1,0 +1,3 @@
+rootProject.name = 'viatoremmobile'
+
+include ':app'
